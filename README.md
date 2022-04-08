@@ -27,7 +27,7 @@ V1.0版本地址：[Fruit-inventory-system-1.0](https://github.com/lixin-jnu/Fru
 
 #### 3 数据库设置
 
-**fruitdb**数据库中的**fruit**表；
+**fruitdb**数据库中的**fruit**表：
 
 - fid：水果编号（**主键**、自增），int(0)；
 - fname：水果名称，varchar(255)；
